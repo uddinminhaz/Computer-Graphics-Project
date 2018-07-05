@@ -1,0 +1,6 @@
+1.Open (house.cpp) with code blocks
+2.run
+3.control:
+		1.keybord(right/left arrow for moving the boat)
+		2.  up/down  arrow for moving the car
+		3.**use mouse right button for day/night view
